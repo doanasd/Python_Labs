@@ -1,0 +1,9 @@
+nam = int(input("Nhập một năm: "))
+
+if (nam % 400 == 0) or (nam % 4 == 0 and nam % 100 != 0):
+    print(nam, "là năm nhuận.")
+else:
+    print(nam, "không phải là năm nhuận.")
+Bài 31: Mã hóa Caesar
+
+Python
