@@ -1,1 +1,0 @@
-# Run Bai7 and Bai8 separately with same side values to compare results

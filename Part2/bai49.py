@@ -11,3 +11,4 @@ if is_prime(num):
     print(num, "là số nguyên tố.")
 else:
     print(num, "không phải là số nguyên tố.")
+

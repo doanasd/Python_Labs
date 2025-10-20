@@ -14,6 +14,3 @@ danh_sach = sorted(danh_sach, reverse=True)
 
 for val, key in danh_sach[:10]:
     print(key, val)
-Bài 20: Tính giai thừa
-
-Python
