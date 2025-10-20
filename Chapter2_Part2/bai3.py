@@ -5,6 +5,3 @@ if st_search in st:
           str(st.find(st_search)))
 else:
     print("Not Found")
-Bài 4: Tìm số lớn nhất
-
-Python

@@ -9,6 +9,3 @@ if is_good_password(password):
     print("Mật khẩu của bạn là tốt.")
 else:
     print("Mật khẩu của bạn không tốt. Nó phải dài ít nhất 8 ký tự và chứa ít nhất một chữ hoa, một chữ thường, và một số.")
-Bài 52: Kiểm tra số hoàn hảo và tìm số hoàn hảo
-
-Python

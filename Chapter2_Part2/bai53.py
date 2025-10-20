@@ -7,6 +7,3 @@ def get_sublists(my_list):
 
 my_list = [1, 2, 3]
 print("Các danh sách con của", my_list, "là:", get_sublists(my_list))
-Bài 54: Định dạng danh sách từ tiếng Anh
-
-Python

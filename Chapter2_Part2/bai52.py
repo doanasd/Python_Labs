@@ -13,6 +13,3 @@ print("Các số hoàn hảo từ 1 đến 10,000 là:")
 for i in range(1, 10001):
     if is_perfect_number(i):
         print(i)
-Bài 53: Tạo danh sách tất cả các danh sách con
-
-Python

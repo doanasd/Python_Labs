@@ -17,6 +17,3 @@ while True:
     words.append(word)
 
 print("Kết quả:", format_word_list(words))
-Bài 55: Nén và giải nén tệp
-
-Python

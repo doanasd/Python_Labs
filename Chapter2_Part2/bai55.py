@@ -1,5 +1,3 @@
-# Nén và giải nén tệp bằng shutil và zipfile
-# Lưu ý: cần có tệp để nén/giải nén
 
 import shutil
 import zipfile

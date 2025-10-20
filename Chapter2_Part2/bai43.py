@@ -12,6 +12,3 @@ def print_longer_string(s1, s2):
 s1 = input("Nhập chuỗi thứ nhất: ")
 s2 = input("Nhập chuỗi thứ hai: ")
 print_longer_string(s1, s2)
-Bài 44: Tạo và in danh sách bình phương
-
-Python

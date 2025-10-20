@@ -6,6 +6,3 @@ num2 = float(input("Nhập số thứ hai: "))
 num3 = float(input("Nhập số thứ ba: "))
 
 print("Giá trị trung bình là:", average(num1, num2, num3))
-Bài 49: Kiểm tra số nguyên tố
-
-Python

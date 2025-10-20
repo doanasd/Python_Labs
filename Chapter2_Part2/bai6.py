@@ -10,6 +10,3 @@ for c in st:
         pass
 print("Sum of Upper Character:", Sum_upper_Char)
 print("Sum of Lower Character:", Sum_lower_Char)
-Bài 7: Kiểm tra số Armstrong
-
-Python

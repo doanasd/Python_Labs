@@ -22,6 +22,3 @@ elif mode == 'decode':
     print("Tin nhắn đã giải mã:", caesar_cipher(message, shift, 'decode'))
 else:
     print("Chế độ không hợp lệ.")
-Bài 33: Kiểm tra Palindrom
-
-Python

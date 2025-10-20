@@ -11,6 +11,3 @@ if is_prime(num):
     print(num, "là số nguyên tố.")
 else:
     print(num, "không phải là số nguyên tố.")
-Bài 50: Tạo mật khẩu ngẫu nhiên
-
-Python

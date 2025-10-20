@@ -6,6 +6,3 @@ ds_tu.sort()
 print("Các từ đã được tách và sắp xếp theo Alphabe")
 for tu in ds_tu:
     print(tu)
-Bài 10: Tính giá trị trung bình (dừng khi nhập "done")
-
-Python

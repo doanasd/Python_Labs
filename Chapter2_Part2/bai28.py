@@ -8,6 +8,3 @@ elif thang == "tháng 2":
     print("Tháng có 28 hoặc 29 ngày.")
 else:
     print("Tên tháng không hợp lệ.")
-Bài 29: Phân loại tam giác
-
-Python

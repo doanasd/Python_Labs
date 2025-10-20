@@ -5,6 +5,3 @@ def in_5_cuoi():
     print(ds[-5:])
 
 in_5_cuoi()
-Bài 47: In tất cả trừ 5 phần tử đầu tiên
-
-Python

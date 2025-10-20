@@ -5,6 +5,3 @@ def Tao_In_DS():
     print(ds[:5] + ds[len(ds) - 5:])
 
 Tao_In_DS()
-Bài 23: Kiểm tra số chẵn (tệp Kiem_tra.py và Test.py)
-
-Python

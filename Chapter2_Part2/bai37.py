@@ -8,6 +8,3 @@ while True:
 
 for word in words:
     print(word)
-Bài 38: Sắp xếp số âm, không, dương
-
-Python

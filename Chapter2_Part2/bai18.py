@@ -9,6 +9,3 @@ for ch in chuoi:
         pass
 print("Số chữ hoa là:", d["chu_hoa"])
 print("Số chữ thường là:", d["chu_thuong"])
-Bài 19: Tìm 10 từ phổ biến nhất trong tệp
-
-Python

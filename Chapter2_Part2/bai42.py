@@ -7,6 +7,3 @@ def factorial(n):
 number = int(input("Nhập một số để tính giai thừa: "))
 result = factorial(number)
 print(str(result))
-Bài 43: In chuỗi có độ dài lớn hơn
-
-Python

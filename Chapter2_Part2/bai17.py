@@ -9,6 +9,3 @@ for ch in chuoi:
         pass
 print("Số chữ cái là:", d["chu_cai"])
 print("Số chữ số là:", d["chu_so"])
-Bài 18: Đếm số chữ hoa và chữ thường trong câu
-
-Python

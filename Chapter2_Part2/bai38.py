@@ -17,6 +17,3 @@ while True:
 sorted_list = neg_nums + zero_nums + pos_nums
 for num in sorted_list:
     print(num)
-Bài 39: Tạo từ điển (i, i*i)
-
-Python

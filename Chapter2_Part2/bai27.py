@@ -18,6 +18,3 @@ elif so_canh == 10:
     print("Hình thập giác")
 else:
     print("Số cạnh không hợp lệ, chương trình chỉ hỗ trợ từ 3 đến 10 cạnh.")
-Bài 28: Số ngày trong tháng
-
-Python

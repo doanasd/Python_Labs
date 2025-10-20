@@ -11,6 +11,3 @@ while True:
 numbers.sort()
 for num in numbers:
     print(num)
-Bài 37: Loại bỏ từ trùng lặp và giữ nguyên thứ tự
-
-Python

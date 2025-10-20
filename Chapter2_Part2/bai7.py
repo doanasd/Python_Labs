@@ -10,6 +10,3 @@ if num == sum:
     print(num, "is Amstrong, level : " + str(level))
 else:
     print(num, "is not Amstrong")
-Bài 8: Loại bỏ ký tự không phải chữ cái hoặc số
-
-Python

@@ -11,6 +11,3 @@ def ma_hoa_caesar(message):
 
 message = input("Nhập tin nhắn cần mã hóa: ")
 print("Tin nhắn đã mã hóa:", ma_hoa_caesar(message))
-Bài 32: Mã hóa/Giải mã Caesar với số dịch chuyển tùy chỉnh
-
-Python

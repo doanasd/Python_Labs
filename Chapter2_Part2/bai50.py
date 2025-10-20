@@ -8,6 +8,3 @@ def generate_password():
     return password
 
 print("Mật khẩu ngẫu nhiên của bạn là:", generate_password())
-Bài 51: Kiểm tra mật khẩu tốt
-
-Python

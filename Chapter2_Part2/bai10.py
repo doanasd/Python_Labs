@@ -10,6 +10,3 @@ while (True):
 
 average = total / count
 print("Average is:", average)
-Bài 11: Tính giá trị trung bình bằng danh sách
-
-Python

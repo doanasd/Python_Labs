@@ -8,6 +8,3 @@ elif a == b or a == c or b == c:
     print("Đây là tam giác cân.")
 else:
     print("Đây là tam giác thường.")
-Bài 30: Kiểm tra năm nhuận
-
-Python

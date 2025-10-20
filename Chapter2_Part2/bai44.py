@@ -5,6 +5,3 @@ def tao_va_in_ds():
     print(ds)
 
 tao_va_in_ds()
-Bài 45: In 5 phần tử đầu tiên của danh sách bình phương
-
-Python

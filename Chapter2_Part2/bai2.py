@@ -5,6 +5,3 @@ elif st.islower():
     print("This is an lower string")
 else:
     print(" This string contains upper and lower characters ")
-Bài 3: Tìm chuỗi con
-
-Python
